@@ -1,86 +1,94 @@
-<<<<<<< HEAD
 # Habit Tracker
 
-Minimal web app to **build daily habits** and track your streaks.
-No signup.
-No API.
-Just consistent habit building.
+A modern and minimal web application to **build consistency and track daily habits efficiently**.
+
+Designed for users who want to stay disciplined without distractions — no login, no ads, just focus.
 
 ---
 
-## Live Demo
+## 🚀 Live Demo
 
-https://habits-tracker-app.vercel.app/
-
----
-
-## Features
-
-- **16 preset habits** with emojis (exercise, read, meditate, code, learn, etc.)
-- **Custom habits** – add any habit with custom name
-- **Streak tracking:**
-  - Current streak (consecutive days)
-  - Best streak (personal record)
-  - Per-habit streaks
-- **Progress dashboard:**
-  - Daily completion count
-  - Completion percentage
-  - Visual progress bar
-  - Best streak highlight
-- **GitHub-style heatmap:**
-  - 77-day activity view
-  - Color intensity by completion rate
-  - Tooltip with daily stats
-- **Full CRUD** – add, toggle, delete habits
-- **Auto-save** – data persists in browser localStorage
-- Clean, responsive, Apple-inspired dark UI
-- No authentication
-- No ads
-- No watermarks
+👉 https://habit-tracker-git-main-ayush-kumars-projects-195b18f4.vercel.app/
 
 ---
 
-## Tech Stack
+## ✨ Features
 
-- React (Vite)
-- Vanilla CSS (Apple-inspired UI)
-- LocalStorage (data persistence)
-- Vercel (static deploy)
+* Predefined habits for quick start (exercise, reading, coding, etc.)
+* Create and manage **custom habits**
+* **Advanced streak tracking:**
+
+  * Current streak
+  * Longest streak
+  * Individual habit tracking
+* **Progress dashboard:**
+
+  * Daily completion stats
+  * Completion percentage
+  * Visual progress bar
+* **Activity heatmap:**
+
+  * Track consistency over time
+  * Color-based performance visualization
+* Full CRUD functionality (Add / Update / Delete habits)
+* Auto-save using browser localStorage
+* Clean, responsive and modern UI
+* No authentication required
 
 ---
 
-## How It Works
+## 🛠️ Tech Stack
 
-1. **Add a habit** from 16 presets or create custom
-2. **Check off habits** daily to build streaks
-3. **View your dashboard** with completion stats and progress
-4. **Track patterns** with the GitHub-style heatmap
-5. **Edit or remove** habits anytime
-
-> Everything is computed client-side. Nothing is uploaded.
+* React.js (Vite)
+* CSS (custom UI styling)
+* LocalStorage (client-side data persistence)
+* Vercel (deployment)
 
 ---
 
-## Privacy
+## ⚙️ How It Works
 
-All processing happens **locally in your browser**.
+1. Add a habit or select from predefined options
+2. Mark habits as completed daily
+3. Track streaks and performance
+4. Analyze consistency using dashboard & heatmap
+5. Update or delete habits anytime
+
+---
+
+## 🔒 Privacy
+
+All data is stored locally in the browser.
 No data is sent to any server.
 
 ---
 
-## Installation
+## 📦 Installation
 
 ```bash
-# Clone the repo
-git clone <YOUR_REPO_URL>
-
-# Install dependencies
-cd habits
+git clone https://github.com/Ayush765497/Habit-tracker.git
+cd habit-tracker
 npm install
-
-# Run locally
 npm run dev
 ```
-=======
-# Habit-tracker
->>>>>>> 11f279426e7931e1282ee33d8d73dbb46164617b
+
+---
+
+## 🎯 Goal
+
+To help users develop **discipline, consistency, and self-improvement habits** through a simple and distraction-free experience.
+
+---
+
+## 🚀 Future Improvements
+
+* User authentication & cloud sync
+* Notifications and reminders
+* Mobile app version
+* Data analytics & insights
+
+---
+
+## 👨‍💻 Author
+
+**Ayush Kumar**
