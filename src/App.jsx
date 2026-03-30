@@ -457,7 +457,7 @@ export default function App() {
       </main>
 
       <footer className="credit">
-        <span>Coded by <a href="https://www.instagram.com/berkindev/" target="_blank" rel="noopener noreferrer">berkindev</a></span>
+        <span>Coded by <a href="https://github.com/Ayush765497" target="_blank" rel="noopener noreferrer">berkindev</a></span>
       </footer>
     </div>
   );
