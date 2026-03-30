@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Habit Tracker
 
 Minimal web app to **build daily habits** and track your streaks.
@@ -80,3 +81,6 @@ npm install
 # Run locally
 npm run dev
 ```
+=======
+# Habit-tracker
+>>>>>>> 11f279426e7931e1282ee33d8d73dbb46164617b
