@@ -8,7 +8,7 @@ Designed for users who want to stay disciplined without distractions — no logi
 
 ## 🚀 Live Demo
 
-👉 https://habit-tracker-git-main-ayush-kumars-projects-195b18f4.vercel.app/
+👉 https://habit-tracker-rosy-seven.vercel.app/
 
 ---
 
