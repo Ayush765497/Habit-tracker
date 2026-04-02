@@ -1,4 +1,4 @@
-# Habit Tracker
+# Habit Trackerr
 
 A modern and minimal web application to **build consistency and track daily habits efficiently**.
 
